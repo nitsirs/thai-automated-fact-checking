@@ -1,0 +1,20 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+streamlit = "*"
+sentence-transformers = "*"
+beautifulsoup4 = "*"
+pythainlp = "*"
+python-crfsuite = "*"
+gensim = "*"
+google = "*"
+transformers = "*"
+requests = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.10"
